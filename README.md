@@ -2,7 +2,7 @@
 Linear Regression Model to predict house prices
 
 ### Note:
-Initially, without cleaning the dataset, the accuracy was around ~45%
+Initially, without cleaning the dataset, the accuracy was around ~45%.<br>
 After data cleaning, it finally is arounf ~70%
 
 Dataset taken from:
